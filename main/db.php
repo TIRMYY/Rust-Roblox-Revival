@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER', 'localhost');
+define('DB_SERVER', 'sql301.infinityfree.com');
 define('DB_USERNAME', 'if0_41085720');
 define('DB_PASSWORD', 'gored72187218');
 define('DB_NAME', 'if0_41085720_kornixdatabase');
